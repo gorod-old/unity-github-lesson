@@ -7,12 +7,8 @@ public class GeneralScript : MonoBehaviour
 {
     public Text info;
 
-    /// <summary>
-    /// 3000 lines of code in which I'm tired of looking for the methods I need))
-    /// </summary>
-
     public void BtClick()
     {
-        info.text = "My first version that I commit to github repository.";
+        info.text = "My second version of the project in which I was completely confused and disappointed ...";
     }
 }
